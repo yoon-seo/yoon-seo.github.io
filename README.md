@@ -1,2 +1,3 @@
 # yoon-seo.github.io
-(HOME)[https://resourcesaga.github.io/]
+[HOME_PAGE][https://resourcesaga.github.io/]
+
